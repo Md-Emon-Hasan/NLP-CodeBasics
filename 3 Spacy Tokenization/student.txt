@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dayton high school, 8th grade students information
 ==================================================
 
@@ -6,4 +7,14 @@ Name	birth day   	email
 Virat   5 June, 1882    virat@kohli.com
 Maria	12 April, 2001  maria@sharapova.com
 Serena  24 June, 1998   serena@williams.com 
+=======
+Dayton high school, 8th grade students information
+==================================================
+
+Name	birth day   	email
+-----	------------	------
+Virat   5 June, 1882    virat@kohli.com
+Maria	12 April, 2001  maria@sharapova.com
+Serena  24 June, 1998   serena@williams.com 
+>>>>>>> 6c7a156c274f038554d02f6f096853397f448a8f
 Joe      1 May, 1997    joe@root.com
